@@ -77,7 +77,9 @@ theme: hexo-theme-next-master
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:servant1001/tools_paradise.git
+  branch: gh-pages
 
 # Live2D
 ## https://github.com/xiazeyu/live2d-widget.js
