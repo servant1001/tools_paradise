@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tool&#39;s Paradise</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-03-01T13:21:04.754Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Ryan Lin</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo - Aplayer 音樂播放</title>
+    <link href="http://yoursite.com/2018/03/01/Aplayer/"/>
+    <id>http://yoursite.com/2018/03/01/Aplayer/</id>
+    <published>2018-03-01T13:02:00.621Z</published>
+    <updated>2018-03-01T13:21:04.754Z</updated>
+    
+    <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h1 id="官方"><a href="#官方" class="headerlink" title="官方"></a>官方</h1><p>hexo-tag-aplayer<br><code>https://github.com/MoePlayer/hexo-tag-aplayer#usage</code></p><h1 id="教學連結"><a href="#教學連結" class="headerlink" title="教學連結"></a>教學連結</h1><p><a href="http://barrysite.me/2017/05/10/vedio/" target="_blank" rel="noopener">http://barrysite.me/2017/05/10/vedio/</a></p><div class="aplayer" data-id="29713168" data-server="netease" data-type="song" data-autoplay="”true”" data-mode="single"></div><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"></div><script>var ap = new APlayer({element: document.getElementById("aplayer0"),narrow: false,autoplay: false,showlrc: 0,music: {title: "HUSH",author: "Lasse Lindh",url: "http://opj0cbfmf.bkt.clouddn.com/Part.3%20Lasse%20Lindh%20-%20Hush.mp3",pic: "http://opj0cbfmf.bkt.clouddn.com/hush.jpg",}});window.aplayers || (window.aplayers = []);window.aplayers.push(ap);</script><h1 id="可建立歌單、歌詞"><a href="#可建立歌單、歌詞" class="headerlink" title="可建立歌單、歌詞"></a>可建立歌單、歌詞</h1><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"></div><script>var options = {"narrow":false,"autoplay":true,"showlrc":3,"mode":"random","music":[{"title":"平凡之路","author":"朴树","url":"http://og9ocpmwk.bkt.clouddn.com/%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF.mp3","pic":"https://ogd99kckh.qnssl.com/1.jpg","lrc":"http://og9ocpmwk.bkt.clouddn.com/%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF.txt"},{"title":"野子","author":"苏运莹","url":"http://og9ocpmwk.bkt.clouddn.com/01%20%E9%87%8E%E5%AD%90.m4a","pic":"http://og9ocpmwk.bkt.clouddn.com/%E9%87%8E%E5%AD%90.jpg","lrc":"https://ogd99kckh.qnssl.com/%E9%87%8E%E5%AD%90.txt"}]};options.element = document.getElementById("aplayer1");var ap = new APlayer(options);window.aplayers || (window.aplayers = []);window.aplayers.push(ap);</script><h1 id="Narrow-true"><a href="#Narrow-true" class="headerlink" title="Narrow = true"></a>Narrow = true</h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;script src=&quot;\assets\js\APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h1 id=&quot;官方&quot;&gt;&lt;a href=&quot;#官方&quot; class=&quot;headerlink&quot; title=&quot;官方&quot;&gt;&lt;/a&gt;官方&lt;/h1&gt;&lt;p&gt;hexo-tag-aplayer&lt;br&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>網頁設計教學</title>
+    <link href="http://yoursite.com/2018/03/01/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88%E6%95%99%E5%AD%B8/"/>
+    <id>http://yoursite.com/2018/03/01/網頁設計教學/</id>
+    <published>2018-03-01T11:39:09.005Z</published>
+    <updated>2018-03-03T08:30:02.527Z</updated>
+    
+    <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><p><a href="http://getbootstrap.com" target="_blank" rel="noopener"><img src="https://simular.co/resources/media/images/css-framework/bootstrap.jpg" alt="" title="Bootstrap"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;script src=&quot;\assets\js\APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;&lt;a href=&quot;http://getbootstrap.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;img src=&quot;https://simu
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>網頁設計找靈感</title>
+    <link href="http://yoursite.com/2018/03/01/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88%E6%89%BE%E9%9D%88%E6%84%9F/"/>
+    <id>http://yoursite.com/2018/03/01/網頁設計找靈感/</id>
+    <published>2018-03-01T11:39:09.003Z</published>
+    <updated>2018-03-03T08:29:55.399Z</updated>
+    
+    <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><!-- HTML方式: 直接在 Markdown 文件中编写 HTML 来调用 --><!-- 其中 class="blockquote-center" 是必须的 --><blockquote class="blockquote-center">blah blah blah</blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;script src=&quot;\assets\js\APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;!-- HTML方式: 直接在 Markdown 文件中编写 HTML 来调用 --&gt;
+&lt;!-- 其中 class=&quot;blockquote-center&quot; 是必须的 --&gt;
+&lt;b
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/03/01/hello-world/"/>
+    <id>http://yoursite.com/2018/03/01/hello-world/</id>
+    <published>2018-03-01T11:39:09.001Z</published>
+    <updated>2018-02-28T07:05:33.448Z</updated>
+    
+    <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;script src=&quot;\assets\js\APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is 
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>CSS 前端框架</title>
+    <link href="http://yoursite.com/2018/03/01/CSS%20%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/"/>
+    <id>http://yoursite.com/2018/03/01/CSS 前端框架/</id>
+    <published>2018-03-01T11:39:08.997Z</published>
+    <updated>2018-02-28T13:10:10.459Z</updated>
+    
+    <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><p><span id="busuanzi_container_page_pv"><br>  本文瀏覽數<span id="busuanzi_value_page_pv"></span>次<br></span></p><blockquote><p>Bootstrap<br>Semantic UI<br>Flat UI<br>Uikit<br>Foundation<br>Pure CSS<br>Susy<br>Skeleton</p></blockquote><h1 id="Bootstrap"><a href="#Bootstrap" class="headerlink" title="Bootstrap"></a>Bootstrap</h1><p><a href="http://getbootstrap.com" target="_blank" rel="noopener"><img src="https://simular.co/resources/media/images/css-framework/bootstrap.jpg" alt="" title="Bootstrap"></a></p><p>Bootstrap是一組用於網站和網路應用程式開發的開源前端框架，包括HTML、CSS及JavaScript的框架，提供字體排印、表單、按鈕、導航及其他各種元件及Javascript擴充套件，旨在使動態網頁和Web應用的開發更加容易。 維基百科</p><p><code>http://getbootstrap.com</code></p><h1 id="Semantic-UI"><a href="#Semantic-UI" class="headerlink" title="Semantic UI"></a>Semantic UI</h1><p><a href="http://semantic-ui.com/" target="_blank" rel="noopener"><img src="https://simular.co/resources/media/images/css-framework/semantic-ui.jpg" alt="" title="Semantic UI"></a></p><p>強調要以非常語意化的語法來編寫 Web 介面的框架，其語法都較長也較繁瑣，盡量避開無意義或難懂的簡寫。</p><p><code>http://semantic-ui.com/</code></p><h1 id="Flat-UI"><a href="#Flat-UI" class="headerlink" title="Flat UI"></a>Flat UI</h1><p><a href="http://designmodo.github.io/Flat-UI/" target="_blank" rel="noopener"><img src="https://simular.co/resources/media/images/css-framework/flat-ui.jpg" alt="" title="Flat UI"></a></p><p>Flat UI 是一款基於 Bootstrap 的扁平化前端 UI 工具包，設計非常清新且漂亮，可以給原本的 Bootstrap 耳目一新的感受。</p><p><code>http://designmodo.github.io/Flat-UI/</code></p><h1 id="Uikit"><a href="#Uikit" class="headerlink" title="Uikit"></a>Uikit</h1><p><a href="http://getuikit.com/" target="_blank" rel="noopener"><img src="https://simular.co/resources/media/images/css-framework/uikit.jpg" alt="" title="Uikit"></a></p><p><code>http://getuikit.com/</code></p><h1 id="Foundation"><a href="#Foundation" class="headerlink" title="Foundation"></a>Foundation</h1><p><a href="http://foundation.zurb.com/" target="_blank" rel="noopener"><img src="https://simular.co/resources/media/images/css-framework/foundation.jpg" alt="" title="Foundation"></a></p><p>由 Zurb 出品的老牌 CSS 框架，在全世界也有許多使用者，在部分技術上比 Bootstrap 更難掌握一些，但靈活性也更強大。</p><p><code>http://foundation.zurb.com/</code></p><h1 id="Pure-CSS"><a href="#Pure-CSS" class="headerlink" title="Pure CSS"></a>Pure CSS</h1><p><a href="http://purecss.io/" target="_blank" rel="noopener"><img src="https://simular.co/resources/media/images/css-framework/purecss.jpg" alt="" title="Pure CSS"></a></p><p>由 Yahoo 出品的 CSS 框架，結構簡單小巧，外型也很清新。不過功能也真的非常簡潔，需要自行編寫更多功能上去。</p><p><code>http://purecss.io/</code></p><h1 id="Susy"><a href="#Susy" class="headerlink" title="Susy"></a>Susy</h1><p><a href="http://susy.oddbird.net/" target="_blank" rel="noopener"><img src="https://simular.co/resources/media/images/css-framework/susy.jpg" alt="" title="Susy"></a></p><p>標榜用 Compass 編寫的 CSS 框架，可以大幅增進開發速度。</p><p><code>http://susy.oddbird.net/</code></p><h1 id="Skeleton"><a href="#Skeleton" class="headerlink" title="Skeleton"></a>Skeleton</h1><p><a href="http://getskeleton.com/" target="_blank" rel="noopener"><img src="https://simular.co/resources/media/images/css-framework/skeleton.jpg" alt="" title="Skeleton"></a></p><p>超級簡潔的 CSS 框架，如同其名一樣，只給你最簡單的功能，讓你自行描繪網站的輪廓。</p><p><code>http://getskeleton.com/</code></p><p><strong>更新中</strong><br><a href="https://buzzorange.com/techorange/2016/03/11/html5-frames/" target="_blank" rel="noopener">https://buzzorange.com/techorange/2016/03/11/html5-frames/</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;script src=&quot;\assets\js\APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;&lt;span id=&quot;busuanzi_container_page_pv&quot;&gt;&lt;br&gt;  本文瀏覽數&lt;span id=&quot;busuanzi_value_page_pv&quot;&gt;&lt;/sp
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
