@@ -78,7 +78,7 @@ theme: hexo-theme-next-master
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:servant1001/servant1001.github.io.git
+  repo: https://github.com/servant1001/servant1001.github.io.git
   branch: gh-pages
 
 # Live2D
